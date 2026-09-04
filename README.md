@@ -1,4 +1,5 @@
-# Project G.A.T.E. (Guardrail Agent Testing & Evaluation): An LLM-as-a-Judge Architecture for Safety and Observability in Intelligent Agents.
+# Project G.A.T.E. (Guardrail Agent Testing & Evaluation)
+## An LLM-as-a-Judge Architecture for Safety and Observability in Intelligent Agents.
 [🇬🇧 **Read this in English**](README-EN.md)
 
 Questa repository contiene il progetto finale per il tirocinio, che implementa un workflow multi-agente avanzato basato sul **Google Agent Development Kit (ADK)**. L'obiettivo principale è eseguire uno "Stress Test Cognitivo" sui Large Language Models (LLM), valutando la loro capacità di mantenere il contesto, rispettare regole di business complesse (anche in contraddizione) e resistere ad attacchi di *prompt injection* o modifiche di ruolo in corso d'opera.
