@@ -2,7 +2,7 @@
 ## An LLM-as-a-Judge Architecture for Safety and Observability in Intelligent Agents.
 [🇮🇹 **Leggi in Italiano**](README.md)
 
-This repository contains the final project for the internship, implementing an advanced multi-agent workflow based on the **Google Agent Development Kit (ADK)**. The main goal is to run a "Cognitive Stress Test" on Large Language Models (LLMs), evaluating their ability to maintain context, comply with complex (even contradictory) business rules, and resist prompt injection attacks or mid-conversation role changes.
+Experimental architecture that implements an advanced multi-agent workflow based on the **Google Agent Development Kit (ADK)**. The main goal is to run a "Cognitive Stress Test" on Large Language Models (LLMs), evaluating their ability to maintain context, comply with complex (even contradictory) business rules, and resist prompt injection attacks or mid-conversation role changes.
 
 ## Workflow Architecture
 
